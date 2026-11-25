@@ -1,0 +1,39 @@
+{
+  "schema": 1,
+  "source": "tova-explore",
+  "generatedAt": "2026-11-25T07:43:37.738Z",
+  "slug": "golden-blade-barbers-christchurch-christchurch",
+  "name": "Golden Blade Barbers Christchurch",
+  "city": "Christchurch",
+  "industry": {
+    "label": "Hair salons & barbers",
+    "niche": "hair salons & barbers",
+    "group": "Beauty & wellness"
+  },
+  "contact": {
+    "phone": "+6432616175",
+    "email": "kelly@goldengrin.co.nz",
+    "address": "226 Kilmore St, Christchurch"
+  },
+  "social": {
+    "facebook": "https://www.facebook.com/102072054540099"
+  },
+  "about": {},
+  "before": {
+    "score": 85,
+    "assessedAt": "2026-11-11T08:04:27.531Z",
+    "issues": [
+      {
+        "id": "no-website",
+        "title": "No website found",
+        "evidence": "No website is listed for this business in the sources searched (verify manually before outreach)."
+      }
+    ]
+  },
+  "ours": {
+    "pagesUrl": "https://tova-studio.github.io/golden-blade-barbers-christchurch/",
+    "repoUrl": "https://github.com/tova-studio/golden-blade-barbers-christchurch",
+    "screenshot": "screenshots/after-desktop.jpg",
+    "publishedAt": "2026-11-25T07:43:37.739Z"
+  }
+}
